@@ -2,7 +2,8 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning machine learning and deep learning
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me tylerdoboy1@gmail.com
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
 
 <!---
 TylerDo/TylerDo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
